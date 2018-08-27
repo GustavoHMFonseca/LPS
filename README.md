@@ -18,7 +18,7 @@ Sistema de Adoção de Animais
 Pasteur Junior
 
 ### Grupo:
-- Arthur Ladislau
+- [Arthur Ladislau](https://github.com/ArthurLPereira)
 - Gustavo Fonseca
 - [Luiz Gustavo](https://github.com/Luizgustavo358)
 - Ricardo Xavier Sena
