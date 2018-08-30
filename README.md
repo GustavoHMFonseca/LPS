@@ -19,6 +19,6 @@ Pasteur Junior
 
 ### Grupo:
 - [Arthur Ladislau](https://github.com/ArthurLPereira)
-- Gustavo Fonseca
+- [Gustavo Fonseca](https://github.com/GustavoHMFonseca)
 - [Luiz Gustavo](https://github.com/Luizgustavo358)
 - [Ricardo Xavier Sena](https://github.com/KakaSena)
