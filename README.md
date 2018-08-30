@@ -3,6 +3,10 @@
 ### Sobre o Trabalho:
 Sistema de Adoção de Animais
 
+- Descrição 
+
+Trabalho realizado pelos alunos da PUC-MG 
+
 ### Links:
 - [Artefatos](Artefatos)
 - [Diagramas](Diagramas)
