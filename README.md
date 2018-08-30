@@ -21,4 +21,4 @@ Pasteur Junior
 - [Arthur Ladislau](https://github.com/ArthurLPereira)
 - Gustavo Fonseca
 - [Luiz Gustavo](https://github.com/Luizgustavo358)
-- Ricardo Xavier Sena
+- [Ricardo Xavier Sena](https://github.com/KakaSena)
